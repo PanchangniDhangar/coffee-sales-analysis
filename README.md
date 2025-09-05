@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 2. Run the dashboard:
 ```yaml
-python app.py
+jupyter notebook coffeesales.ipynb
 ```
 3. Open the local server URL (usually `http://127.0.0.1:8050/`) in your browser to interact with the dashboard.
 
