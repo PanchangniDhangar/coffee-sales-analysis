@@ -1,6 +1,8 @@
 # Coffee Sales Analysis Dashboard
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)  
+[![Pandas](https://img.shields.io/badge/Pandas-latest-blue)](https://pandas.pydata.org/)  
+[![Plotly](https://img.shields.io/badge/Plotly-latest-orange)](https://plotly.com/python/)  
 [![Dash](https://img.shields.io/badge/Dash-Plotly-orange)](https://dash.plotly.com/)  
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
