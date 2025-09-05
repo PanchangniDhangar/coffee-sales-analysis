@@ -39,20 +39,14 @@ This dashboard is built using **Python**, **Pandas**, **Plotly**, **Dash**, and 
 ## Installation
 
 1. Clone the repository:
-
+```bash
 git clone git@github.com:PanchangniDhangar/coffee-sales-analysis.git
 cd coffee-sales-analysis
-
-markdown
-Copy code
-
+```
 2. Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
-markdown
-Copy code
-
+```
 **Required Packages:**
 
 - pandas
@@ -69,12 +63,9 @@ Copy code
 1. Ensure your data file `index.csv` is in the project directory.  
 
 2. Run the dashboard:
-
+```yaml
 python app.py
-
-yaml
-Copy code
-
+```
 3. Open the local server URL (usually `http://127.0.0.1:8050/`) in your browser to interact with the dashboard.
 
 ---
